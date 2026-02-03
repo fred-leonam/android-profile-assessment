@@ -1,10 +1,10 @@
-package com.thoughtworks.moments
+package com.thoughtworks.productssearch
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
-import com.thoughtworks.moments.ui.theme.TheProductsSearchTheme
+import com.thoughtworks.productssearch.ui.theme.TheProductsSearchTheme
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

@@ -1,4 +1,4 @@
-package com.thoughtworks.moments.ui.theme
+package com.thoughtworks.productssearch.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

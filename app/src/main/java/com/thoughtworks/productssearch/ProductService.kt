@@ -1,6 +1,5 @@
-package com.thoughtworks.moments
+package com.thoughtworks.productssearch
 
-import kotlinx.coroutines.delay
 import javax.inject.Inject
 import javax.inject.Singleton
 

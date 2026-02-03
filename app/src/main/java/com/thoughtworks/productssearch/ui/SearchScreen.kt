@@ -1,4 +1,4 @@
-package com.thoughtworks.moments.ui
+package com.thoughtworks.productssearch.ui
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier

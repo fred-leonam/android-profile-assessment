@@ -1,4 +1,4 @@
-package com.thoughtworks.moments
+package com.thoughtworks.productssearch
 
 sealed class Result<out T> {
     data class Success<T>(val data: T) : Result<T>()

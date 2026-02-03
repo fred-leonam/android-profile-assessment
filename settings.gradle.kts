@@ -19,5 +19,5 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "TheWeChatMoments"
+rootProject.name = "ProductsSearch"
 include(":app")

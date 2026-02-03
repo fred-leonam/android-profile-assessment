@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-  namespace = "com.thoughtworks.moments"
+  namespace = "com.thoughtworks.productssearch"
   compileSdk = 35
 
   defaultConfig {
-    applicationId = "com.thoughtworks.moments"
+    applicationId = "com.thoughtworks.productssearch"
     minSdk = 28
     targetSdk = 35
     versionCode = 1

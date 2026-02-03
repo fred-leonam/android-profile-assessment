@@ -1,4 +1,4 @@
-package com.thoughtworks.moments
+package com.thoughtworks.productssearch
 
 data class Product(
     val id: String,

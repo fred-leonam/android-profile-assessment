@@ -1,4 +1,4 @@
-package com.thoughtworks.moments.ui
+package com.thoughtworks.productssearch.ui
 
 import androidx.lifecycle.ViewModel
 import dagger.hilt.android.lifecycle.HiltViewModel

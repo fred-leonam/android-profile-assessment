@@ -4,7 +4,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name=".WeChatMomentsApp"
+        android:name="com.thoughtworks.productssearch.ProductSearchApp"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -13,13 +13,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:usesCleartextTraffic="true"
-        android:theme="@style/Theme.TheWeChatMoments">
+        android:theme="@style/Theme.ProductsSearch">
 
         <activity
-            android:name=".MainActivity"
+            android:name="com.thoughtworks.productssearch.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.TheWeChatMoments">
+            android:theme="@style/Theme.ProductsSearch">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
