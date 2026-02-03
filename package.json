@@ -1,0 +1,15 @@
+{
+  "name": "mobiledev-wechatmoments-compose-main",
+  "version": "1.0.0",
+  "description": "1. Android Studio Ladybug | 2024.2.1 Patch 2 - via [Android Developers](https://developer.android.com/studio) 2. Android SDK 35- via [Android SDK Manager](https://developer.android.com/studio/intro/update#sdk-manager) 3. Java JDK 17- via [Brew OpenJDK](https://formulae.brew.sh/formula/openjdk@17) or [AdoptOpen JDK](https://adoptopenjdk.net/releases) 4. npm - via [Node.js installer](https://nodejs.org/en/download/) or [nvm](https://github.com/nvm-sh/nvm#install--update-script)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
